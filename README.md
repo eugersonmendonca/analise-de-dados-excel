@@ -9,3 +9,8 @@
 <p>(Gráfico de coluna, barra, slicers)</p>
 
 ![comparativo_grafico](https://github.com/eugersonmendonca/analise-de-dados-excel/assets/44478573/d61274be-de38-4fd9-ae41-c8e32ce6dd3d)
+
+<h4>Tendências</h4> 
+<p>(Tabela, Gráfico de linha, Gráfico de área)</p>
+
+![tendencia](https://github.com/eugersonmendonca/analise-de-dados-excel/assets/44478573/ae7549f5-b530-4fc1-b47a-fdb3049a1544)
