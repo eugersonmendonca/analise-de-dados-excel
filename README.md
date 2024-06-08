@@ -23,4 +23,4 @@
 <h4>Dashboard</h4> 
 <p>(Tabela, GRáfico, Ranking, Classificação, Slicers)</p>
 
-![dashboard](https://github.com/eugersonmendonca/analise-de-dados-excel/assets/44478573/8d885dc5-8a19-4bda-9297-e0b1bb541da2)
+![Dashboard](https://github.com/eugersonmendonca/analise-de-dados-excel/assets/44478573/be0b28e3-e022-4350-8b4f-2db051b6a996)
