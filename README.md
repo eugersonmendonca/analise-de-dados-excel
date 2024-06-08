@@ -1,7 +1,7 @@
 # analise-de-dados-excel
 
 <h4>KPI - Key Perfomace Indicators</h4>
-<p>(Tabela, slicers)</p>
+<p>(Tabela, Slicers)</p>
 
 ![Captura de tela 2024-06-06 113930](https://github.com/eugersonmendonca/analise-de-dados-excel/assets/44478573/2840510d-5451-4f46-8253-16534076d849)
 
@@ -19,3 +19,8 @@
 <p>(Tabela, Ranking, Classificação, Slicers)</p>
 
 ![ranking](https://github.com/eugersonmendonca/analise-de-dados-excel/assets/44478573/7f8ebe83-86fe-4cba-8f6a-d570b07b52bd)
+
+<h4>Dashboard</h4> 
+<p>(Tabela, GRáfico, Ranking, Classificação, Slicers)</p>
+
+![dashboard](https://github.com/eugersonmendonca/analise-de-dados-excel/assets/44478573/8d885dc5-8a19-4bda-9297-e0b1bb541da2)
