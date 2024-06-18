@@ -1,6 +1,6 @@
 # analise-de-dados-excel
 
-<h4>KPI - Key Perfomace Indicators</h4>
+<h4>KPI - Key Perfomance Indicators</h4>
 <p>(Tabela, Slicers)</p>
 
 ![Captura de tela 2024-06-06 113930](https://github.com/eugersonmendonca/analise-de-dados-excel/assets/44478573/2840510d-5451-4f46-8253-16534076d849)
